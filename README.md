@@ -15,3 +15,7 @@
 
 - Install the dependencies : `npm i`
 - Start the application : `npm run dev` and then `ctrl + click` on the provided localhost url
+
+
+  plesae allow access for this repo sir- yours truely nakul kataria
+  
